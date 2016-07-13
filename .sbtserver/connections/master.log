@@ -1,0 +1,7 @@
+New log file opened at Wed Jul 13 11:11:23 SGT 2016 by 24473@Baskarans-MacBook-Pro.local
+Taking next connection to: 57328
+New client attempting to connect on port: 57329-57328
+  Address = /192.168.99.1:57328
+This client on port 57329 has uuid d581eed8-2917-48c9-a062-07917f5faafc configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-d581eed8-2917-48c9-a062-07917f5faafc
+Taking next connection to: 57328
